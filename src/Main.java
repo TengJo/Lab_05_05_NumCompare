@@ -8,7 +8,7 @@ public class Main
 	double numOne;
     double numTwo;
     numOne = 1.4;
-    numTwo = 1.4;
+    numTwo = .7;
         if (numOne == numTwo)
         {
             System.out.println("The numbers are equal.");
